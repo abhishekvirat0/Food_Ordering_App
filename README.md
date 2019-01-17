@@ -6,3 +6,4 @@ tested on API 27, redminote4
 
 ● Provided sign in/sign up function, menu and food list loading, orders management process, and notifications for users
 
+<h6>As I am a android learner myself, all help & contribution is very well appreciated. If you find this idea or the underlying code useful, feel free to reuse it in your own projects.</h6>
