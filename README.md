@@ -1,5 +1,3 @@
-Hi, I am a Self Taught programmer. You can donate me via ![paytm](https://github.com/abhishekvirat0/Food_Ordering_App/blob/master/.github/FUNDING.yml)
-
 # Food_Ordering_App
 tested on API 27, redminote4
 
