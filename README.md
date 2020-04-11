@@ -1,4 +1,4 @@
-## If you find this App Useful, Please Endorse me on ![LinkedIn](https://www.linkedin.com/in/abhishekvirat/)
+## If you find this App Useful, Please Endorse me on [LinkedIn](https://www.linkedin.com/in/abhishekvirat/)
 # Food_Ordering_App
 tested on API 27, redminote4
 
