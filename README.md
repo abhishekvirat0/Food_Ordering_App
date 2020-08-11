@@ -1,6 +1,6 @@
 # Food_Ordering_App
 
-![video](https://www.youtube.com/watch?v=iNe31x-oNiM)
+![How app looks like](https://www.youtube.com/watch?v=iNe31x-oNiM)
 
 tested on API 27, redminote4
 
