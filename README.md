@@ -1,6 +1,6 @@
 # Food_Ordering_App
 
-![This is How Final app will look !](https://www.youtube.com/watch?v=iNe31x-oNiM)
+[This is How Final app will look !](https://www.youtube.com/watch?v=iNe31x-oNiM)
 
 tested on API 27, redminote4
 
